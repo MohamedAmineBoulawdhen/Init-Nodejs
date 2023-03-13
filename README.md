@@ -40,7 +40,7 @@
 4. Use the `nodemailer` module to send an email to yourself using your new email account.
 5. Save the file and run it using the `node` command in your terminal.
 
---
+---
 # Conclusion
 
 These are simple instructions to interact with nodejs as newbie.
