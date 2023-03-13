@@ -43,7 +43,7 @@
 ---
 # Conclusion
 
-These are simple instructions to interact with nodejs as newbie.
+These are simple instructions to interact with nodejs as a newbie.
 
 
 
