@@ -9,7 +9,7 @@ const transporter = nodemailer.createTransport({
   },
 });
 var mailOptions = {
-  from: "///", // sender address
+  from: "///", // sender email
   to: "///", // list of receivers
   subject: "nodetest",
   text: "Test Email",
